@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "小白"
 date:   2025-06-03 20:46
 tags:  Friend
 color: rgb(255,90,90)
