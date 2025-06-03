@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: 'on the other side of the sea.'
-description: ''
+title: 'My blog '
+description: 'This is the home page for recording daily life, knowledge learning and personal thoughts'
 keywords: 'Life and Learning record'
 url: 'https://wangchenchang.github.io' # your host
 
@@ -20,15 +20,15 @@ webtitle: 'my blog'
 bio: ''
 about: true
 aboutyou: 'I graduated from Dalian University of Technology in 2024 and entered Kyushu University in the spring of 2025'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/my photo.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'wangchenchang0916@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
+  weixin: '/assets/wechat.PNG' # 微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
+  github: 'https://github.com/wangchenchang'
   Codepen: ''
   weibo: ''
   instagram: ''
