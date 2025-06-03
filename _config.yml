@@ -20,7 +20,7 @@ webtitle: 'my blog'
 bio: ''
 about: true
 aboutyou: 'I graduated from Dalian University of Technology in 2024 and entered Kyushu University in the spring of 2025'
-portraits: '/assets/my photo.jpeg' # your portraits image file path
+portraits: '/assets/myphoto.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
