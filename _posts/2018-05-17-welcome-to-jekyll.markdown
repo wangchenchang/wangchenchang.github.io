@@ -2,7 +2,7 @@
 layout: post
 title:  "创建了一个自己的小树洞"
 date:   2025-06-03 14:05:21 +0800
-tags: pages create
+tags: pages creaye
 color: rgb(255,90,90)
 cover: '../assets/test.png'
 subtitle: 'Welcome to my page'
