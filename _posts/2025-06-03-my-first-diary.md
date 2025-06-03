@@ -1,14 +1,9 @@
 ---
 layout: post
-
 title:  "远行前的碎碎念"
-
 date:   2025-06-03
-
 tags:  Record
-
 color: rgb(255,90,90)
-
 subtitle: 'The future is full of unknown, which makes people yearn for and anxious'  
 ---
 
