@@ -1,28 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-17 14:05:21 +0800
-tags: jekyll update
+title:  "Welcome to my pages!"
+date:   2025-06-13 14:05:21 +0800
+tags: mypages create
 color: rgb(255,90,90)
 cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+subtitle: 'Today I create my pages!'
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+今天创建了我的主页，这个无人问津的小角落，将记录我成长的心路历程～
+希望过了很久，未来的我看到这些文字的时候，能够回想起这些美好的旧时光～
