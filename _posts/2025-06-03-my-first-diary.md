@@ -3,7 +3,7 @@ layout: post
 
 title:  "远行前的碎碎念"
 
-date:   2025-06-03 16:53
+date:   2025-06-03
 
 tags:  Record
 
