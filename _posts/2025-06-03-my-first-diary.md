@@ -9,7 +9,7 @@ tags:  Record
 
 color: rgb(255,90,90)
 
-cover: '../assets/'
+cover: '../assets/dalian.jpeg'
 
 subtitle: 'The future is full of unknown, which makes people yearn for and anxious'  
 ---
