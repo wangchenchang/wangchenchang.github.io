@@ -2,15 +2,12 @@
 layout: post
 title:  "创建了一个自己的小树洞"
 date:   2025-06-03 14:05:21 +0800
-tags: 记录生活，写下想法
+tags: pages create
 color: rgb(255,90,90)
-cover: '/assets/Dalian.jpg'
+cover: '../assets/test.png'
 subtitle: 'Welcome to my page'
-
 ---
-我创建了一个自己的树洞，把自己的生活，想法记录写在这个无人问津的主页上～
-记录下来的这些成长的时刻，这些时刻都是我生命中的一部分。
-我想，人的一生，是需要不断的去学习让自己变得更好。
+I created my own homepage～
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
