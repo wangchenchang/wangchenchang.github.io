@@ -6,7 +6,5 @@ tags:  Beginning
 color: rgb(255,90,90)
 subtitle: 'Today I create my pages!'
 ---
-Today I created my homepage, this little corner of no one, will record my growing heart journey ~
-
-Hopefully, after a long time, when I see these words, I will be able to think back to these good old days
-
+Welcome to my home page. I will record my solutions to some small problems in my research and study and my thoughts on some research contents in my blog. I hope I can keep recording this road of learning and acquire the ability of independent thinking and autonomous learning in the process of learning.
+If my records can be of some help to the readers of my homepage, I am very honored. I also welcome those who are interested in what I study to discuss with me. I hope everyone can make progress together and work hard together
